@@ -1,0 +1,1 @@
+gcc -DBUF_SIZE=100 -o stack -z execstack -static -m32 stack.c
